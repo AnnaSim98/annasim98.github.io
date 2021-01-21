@@ -18,3 +18,6 @@ Pulse is flexbox layout work with BEM Methodology and some simple slider, modal 
 Portfolio is css grid layout work and some JS.
 Moneykeeper is JS project.
 Food is JS project with slider, tabs, modal window, calculator, timer and forms.
+
+
+This pages is only example of my works. Please, see on the code. 
