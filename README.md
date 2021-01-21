@@ -10,7 +10,9 @@ There are folders here:
 /moneykeeper 
 /food
 
-You can follow them and see examples of my work. For example, annasim98.github.io/portfolio
+You can follow them and see examples of my work. 
+
+For example, annasim98.github.io/portfolio
 
 Wordpress is simple layout work.
 Uber is layout work with bootstap-grid with BEM Methodology.
